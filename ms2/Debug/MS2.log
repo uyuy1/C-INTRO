@@ -1,0 +1,6 @@
+﻿  ErrorMessage.cpp
+c:\users\raangeles\desktop\ms2\oop-fp_ms2-master\errormessage.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\raangeles\desktop\ms2\oop-fp_ms2-master\errormessage.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  MS2.vcxproj -> C:\Users\raangeles\Desktop\MS2\OOP-FP_MS2-master\Debug\MS2.exe
