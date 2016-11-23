@@ -1,0 +1,4 @@
+﻿  AccountNumber.cpp
+c:\users\koko\desktop\oop-workshop2-master\w2_in_lab\accountnumber.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  w2_in_lab.vcxproj -> C:\Users\Koko\Desktop\OOP-Workshop2-master\w2_in_lab\Debug\w2_in_lab.exe

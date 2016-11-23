@@ -1,0 +1,25 @@
+Script started on Mon 01 Feb 2016 08:46:10 PM EST
+raangeles@matrix:~/w3_in_lab> [Kw3
+Weather Data
+=====================
+Days of Weather: 3
+Enter date: Oct/1
+Enter high: 15
+Enter low : 10
+Enter date: Nov/13
+Enter high: 10
+Enter low : 1.1
+Enter date: Dec/15
+Enter high: 5.5
+Enter low : -6.5
+
+Weather report:
+Date        high  low
+======================
+Oct/1_______15.0__10.0
+Nov/13______10.0___1.1
+Dec/15_______5.5__-6.5
+raangeles@matrix:~/w3_in_lab> exit
+exit
+
+Script done on Mon 01 Feb 2016 08:46:42 PM EST

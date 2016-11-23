@@ -1,0 +1,10 @@
+
+In line number 14 of your output:
+The output should be:
+Invalid account number, (999 999 9999), try again: 123 1234 12345
+But your output is: 
+Invalid account number, (999 999 9999), try again: 123 123 123
+                                                          ^
+----------------------------------------------------------|
+Professors character ASCII code: hex(34), dec(52)
+un-matched character ASCII code: hex(20), dec(32)

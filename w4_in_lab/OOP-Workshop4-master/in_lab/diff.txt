@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+Invalid enrollment!
+But your output is: 
+InValid enrollment!
+  ^
+--|
+Professors character ASCII code: hex(76), dec(118)
+un-matched character ASCII code: hex(56), dec(86)
