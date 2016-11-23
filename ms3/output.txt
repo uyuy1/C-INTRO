@@ -1,0 +1,24 @@
+Script started on Wed 06 Apr 2016 08:08:44 PM EDT
+raangeles@matrix:~/ms3> ms3
+Linear: one two 
+As is: 
+one
+two
+
+Enter the folowing: 
+three<ENTER>
+four<ENTER>
+<Ctrl-D>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+raangeles@matrix:~/ms3> exit
+exit
+
+Script done on Wed 06 Apr 2016 08:08:52 PM EDT

@@ -1,0 +1,14 @@
+﻿  Product.cpp
+  ErrorMessage.cpp
+d:\oop244\ms5\errormessage.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\oop244\ms5\errormessage.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Date.cpp
+  AmaProductTester.cpp
+d:\oop244\ms5\amaproducttester.cpp(44): warning C4101: 'i': unreferenced local variable
+  AmaProduct.cpp
+  AmaPerishable.cpp
+  Generating Code...
+  MS5.vcxproj -> D:\OOP244\ms5\Debug\MS5.exe
+  MS5.vcxproj -> D:\OOP244\ms5\Debug\MS5.pdb (Full PDB)

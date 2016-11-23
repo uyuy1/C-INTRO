@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+Empty Prouduct:
+But your output is: 
+raangeles@matrix:~/ms4> ms4
+^
+|
+Professors character ASCII code: hex(45), dec(69)
+un-matched character ASCII code: hex(72), dec(114)
