@@ -1,0 +1,10 @@
+
+In line number 43 of your output:
+The output should be:
+Please enter the following string "2000/13/1": 2000/13/1
+But your output is: 
+Please enter the following string "2000/13/1": 200/13/1
+                                                  ^
+--------------------------------------------------|
+Professors character ASCII code: hex(30), dec(48)
+un-matched character ASCII code: hex(2f), dec(47)
